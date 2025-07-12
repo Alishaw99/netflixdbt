@@ -1,0 +1,31 @@
+{
+  "build": "ha6b5a95_9",
+  "build_number": 9,
+  "channel": "https://repo.anaconda.com/pkgs/main",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.44.35208"
+  ],
+  "extracted_package_dir": "C:\\Users\\tariq\\miniconda3\\pkgs\\vs2015_runtime-14.44.35208-ha6b5a95_9",
+  "files": [],
+  "fn": "vs2015_runtime-14.44.35208-ha6b5a95_9.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\tariq\\miniconda3\\pkgs\\vs2015_runtime-14.44.35208-ha6b5a95_9",
+    "type": 1
+  },
+  "md5": "45e52b9233c97f94b4cf1291f2744133",
+  "name": "vs2015_runtime",
+  "package_tarball_full_path": "C:\\Users\\tariq\\miniconda3\\pkgs\\vs2015_runtime-14.44.35208-ha6b5a95_9.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "428f13737f81cd670eb36b99a697071d37b0ed2058d05df6e9cab317a51a9b1f",
+  "size": 19517,
+  "subdir": "win-64",
+  "timestamp": 1752189885000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/vs2015_runtime-14.44.35208-ha6b5a95_9.conda",
+  "version": "14.44.35208"
+}

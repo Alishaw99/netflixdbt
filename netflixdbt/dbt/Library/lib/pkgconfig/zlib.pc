@@ -1,0 +1,13 @@
+prefix=D:/dbt_masterclass/netflixdbt/dbt/Library
+exec_prefix=D:/dbt_masterclass/netflixdbt/dbt/Library
+libdir=D:/dbt_masterclass/netflixdbt/dbt/Library/lib
+sharedlibdir=D:/dbt_masterclass/netflixdbt/dbt/Library/lib
+includedir=D:/dbt_masterclass/netflixdbt/dbt/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
